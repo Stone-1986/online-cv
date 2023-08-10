@@ -85,9 +85,9 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Quality Analyst III
-        time: abr 2022 - presente
-        company: SII Colombia
+      - role: Lead Developer
+        time: 2015 - Present
+        company: Startup Hubs, San Francisco
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -100,9 +100,9 @@ experiences:
           architecto beatae vitae dicta sunt explicabo.
             - Bullet point
             - Bullet point
-      - role: Analista de Pruebas QA
-        time: dic 2021 - ago 2022
-        company: Choucair Testing
+      - role: Senior Software Engineer
+        time: 2014 - 2015
+        company: Google, London
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -111,9 +111,9 @@ experiences:
           pellentesque eu, pretium quis, sem.
             - Bullet point
             - Bullet point
-        - role: Analista Semi Senior I
-        time: jul 2021 - ene 2022
-        company: BITS Américas SAS
+      - role: UI Developer
+        time: 2012 - 2014
+        company: Amazon, London
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -121,7 +121,7 @@ experiences:
           nascetur ridiculus mus. Donec quam felis, ultricies nec,
           pellentesque eu, pretium quis, sem.
             - Bullet point
-            - Bullet point    
+            - Bullet point
             
 certifications:
       title: Certifications

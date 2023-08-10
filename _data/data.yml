@@ -122,29 +122,7 @@ experiences:
           pellentesque eu, pretium quis, sem.
             - Bullet point
             - Bullet point    
-        - role: Analista de Pruebas QA
-        time: oct 2020 - ago 2021
-        company: Agencia de Seguros Falabella
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-        - role: Analista de Pruebas QA
-        time: nov 2018 - oct 2020
-        company: AProsegur S.A.
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-
+            
 certifications:
       title: Certifications
       list:

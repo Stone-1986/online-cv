@@ -16,43 +16,37 @@ sidebar:
     email: jfonsecac2@ucentral.edu.co
     phone: 57+3187403584
     timezone: Bogotá (GMT-5)
-    citizenship:
+    citizenship: Colombiano
    # website: blog.webjeda.com #do not add http://
     linkedin: www.linkedin.com/in/jonathan-fonseca-56b7148a
-    xing: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
+   # xing: alandoe
+    github: https://github.com/Stone-1986
+  #   telegram: # add your nickname without '@' sign
+  #   gitlab:
+  #   bitbucket:
+  #   twitter: '@webjeda'
+  #   stack-overflow: # Number/Username, e.g. 123456/alandoe
+  #   codewars:
+  #   goodreads: # Number-Username, e.g. 123456-alandoe
     pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
       title: Languages
       info:
-        - idiom: English
-          level: Native
-
-        - idiom: French
-          level: Professional
-
         - idiom: Spanish
-          level: Professional
+          level: native
 
-    interests:
-      title: Interests
-      info:
-        - item: Climbing
-          link:
+#    interests:
+#      title: Interests
+#      info:
+#        - item: Climbing
+#          link:
 
-        - item: Snowboarding
-          link:
+#        - item: Snowboarding
+#          link:
 
-        - item: Cooking
-          link:
+#        - item: Cooking
+#          link:
 
 career-profile:
     title: Career Profile

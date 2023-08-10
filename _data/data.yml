@@ -69,6 +69,7 @@ career-profile:
           pretium quis, sem.
             - Bullet point
             - Bullet point
+            
       - degree: Tecnólogo en Sistemas
         university: Universidad Inpahu, Bogotá D.C
         time: 2007 - 2012
@@ -80,6 +81,7 @@ career-profile:
           pretium quis, sem.
             - Bullet point
             - Bullet point
+            
 experiences:
     title: Experiences
     info:
@@ -87,16 +89,8 @@ experiences:
         time: abr 2022 - Present
         company: SII Colombia
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
+            - Identificar oportunidades para automatizar pruebas e implementar un marco de automatización robusto y escalable 
+            utilizando herramientas como Selenium, Cucumber y Java.
             - Bullet point
             
       - role: Analista de Pruebas QA

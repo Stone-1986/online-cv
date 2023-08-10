@@ -11,7 +11,7 @@ sidebar:
     name: Jonathan Fonseca Clavijo
     tagline: Analista de Pruebas QA - Automatizacion
     avatar: Foto.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-
+º
     # Sidebar links
     email: jfonsecac2@ucentral.edu.co
     phone: 57+3187403584
@@ -84,18 +84,18 @@ education:
             - Bullet point
 
 experiences:
-    title: Experiences
+  - title: Experiences
     info:
       - role: Quality Analyst III
         time: abr 2022 - presente
         company: SII Colombia
-        details: |
-        • Identificar oportunidades para automatizar pruebas e implementar un marco de automatización robusto y escalable utilizando herramientas como Selenium, Cucumber y Java.
-        • Investigar y documentar los defectos encontrados durante las pruebas, colaborar con los equipos de desarrollo para solucionar los problemas y realizar un seguimiento de las correcciones.
-        • Crear estrategias de pruebas, planificar y diseñar casos de prueba, identificar los escenarios más críticos y definir los criterios de aceptación
-        ## _Logros_:
-        Colaboré estrechamente con los equipos de desarrollo y negocio para diseñar e implementar un software de generación de links de pago. Por mi liderazgo y entendimiento del negocio, participé en la codificación utilizando herramientas
-        como Spring Boot y Java. Mi aporte permitió una comunicación fluida entre ambas áreas, generando un software robusto y seguro que facilitó los procesos de pago para los usuarios
+        details: >
+          • Identificar oportunidades para automatizar pruebas e implementar un marco de automatización robusto y escalable utilizando herramientas como Selenium, Cucumber y Java.
+          • Investigar y documentar los defectos encontrados durante las pruebas, colaborar con los equipos de desarrollo para solucionar los problemas y realizar un seguimiento de las correcciones.
+          • Crear estrategias de pruebas, planificar y diseñar casos de prueba, identificar los escenarios más críticos y definir los criterios de aceptación.
+        achievements: |
+          Colaboré estrechamente con los equipos de desarrollo y negocio para diseñar e implementar un software de generación de links de pago. Por mi liderazgo y entendimiento del negocio, participé en la codificación utilizando herramientas
+          como Spring Boot y Java. Mi aporte permitió una comunicación fluida entre ambas áreas, generando un software robusto y seguro que facilitó los procesos de pago para los usuarios.
 
       - role: Analista de Pruebas QA
         time: dic 2021 - ago 2022
@@ -106,8 +106,9 @@ experiences:
           Cum sociis natoque penatibus et magnis dis parturient montes,
           nascetur ridiculus mus. Donec quam felis, ultricies nec,
           pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          - Bullet point
+          - Bullet point
+
       - role: Analista Semi Senior I
         time: jul 2021 - ene 2022
         company: BITS Américas SAS
@@ -117,16 +118,28 @@ experiences:
           Cum sociis natoque penatibus et magnis dis parturient montes,
           nascetur ridiculus mus. Donec quam felis, ultricies nec,
           pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-        - role: Analista de Pruebas QA
+          - Bullet point
+          - Bullet point
+
+      - role: Analista de Pruebas QA
         time: oct 2020 - ago 2021
         company: Agencia de Seguros Falabella
-        details: |    
-        - role: Analista de Pruebas
+        details: |
+          Describe your role here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+          Cum sociis natoque penatibus et magnis dis parturient montes,
+          nascetur ridiculus mus. Donec quam felis, ultricies nec,
+          pellentesque eu, pretium quis, sem.
+
+      - role: Analista de Pruebas
         time: nov 2018 - oct 2020
         company: Prosegur S.A.
-        details: | 
+        details: |
+          Describe your role here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+          Cum sociis natoque penatibus et magnis dis parturient montes,
+          nascetur ridiculus mus. Donec quam felis, ultricies nec,
+          pellentesque eu, pretium quis, sem.
 
 certifications:
       title: Certifications

@@ -90,16 +90,16 @@ experiences:
         time: abr 2022 - presente
         company: SII Colombia
         details: |
-        - Identificar oportunidades para automatizar pruebas e implementar un marco de automatización robusto y escalable utilizando herramientas como Selenium, Cucumber y Java.
-        - Investigar y documentar los defectos encontrados durante las pruebas, colaborar con los equipos de desarrollo para solucionar los problemas y realizar un seguimiento de las correcciones.
-        - Crear estrategias de pruebas, planificar y diseñar casos de prueba, identificar los escenarios más críticos y definir los criterios de aceptación
+        • Identificar oportunidades para automatizar pruebas e implementar un marco de automatización robusto y escalable utilizando herramientas como Selenium, Cucumber y Java.
+        • Investigar y documentar los defectos encontrados durante las pruebas, colaborar con los equipos de desarrollo para solucionar los problemas y realizar un seguimiento de las correcciones.
+        • Crear estrategias de pruebas, planificar y diseñar casos de prueba, identificar los escenarios más críticos y definir los criterios de aceptación
         ## _Logros_:
         Colaboré estrechamente con los equipos de desarrollo y negocio para diseñar e implementar un software de generación de links de pago. Por mi liderazgo y entendimiento del negocio, participé en la codificación utilizando herramientas
         como Spring Boot y Java. Mi aporte permitió una comunicación fluida entre ambas áreas, generando un software robusto y seguro que facilitó los procesos de pago para los usuarios
 
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+      - role: Analista de Pruebas QA
+        time: dic 2021 - ago 2022
+        company: Choucair Testing
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -108,9 +108,9 @@ experiences:
           pellentesque eu, pretium quis, sem.
             - Bullet point
             - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+      - role: Analista Semi Senior I
+        time: jul 2021 - ene 2022
+        company: BITS Américas SAS
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -119,6 +119,14 @@ experiences:
           pellentesque eu, pretium quis, sem.
             - Bullet point
             - Bullet point
+        - role: Analista de Pruebas QA
+        time: oct 2020 - ago 2021
+        company: Agencia de Seguros Falabella
+        details: |    
+        - role: Analista de Pruebas
+        time: nov 2018 - oct 2020
+        company: Prosegur S.A.
+        details: | 
 
 certifications:
       title: Certifications

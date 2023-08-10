@@ -85,9 +85,9 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Quality Analyst III
+        time: abr 2022 - Present
+        company: SII Colombia
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -100,20 +100,10 @@ experiences:
           architecto beatae vitae dicta sunt explicabo.
             - Bullet point
             - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+            
+      - role: Analista de Pruebas QA
+        time: dic 2021 - ago 2022
+        company: A dic 2021 - ago 2022
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -123,13 +113,25 @@ experiences:
             - Bullet point
             - Bullet point
             
-      - role: UI Developer  
+      - role: Analista Semi Senior I
+        time: oct 2020 - ago 2021
+        company: BITS Américas SAS
+        details: |
+          Describe your role here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+          Cum sociis natoque penatibus et magnis dis parturient montes,
+          nascetur ridiculus mus. Donec quam felis, ultricies nec,
+          pellentesque eu, pretium quis, sem.
+            - Bullet point
+            - Bullet point
+            
+      - role: Analista de Pruebas QA  
         time: 2012 - 2014
-        company: Amazon, London
+        company: Agencia de Seguros Falabella
 
-      - role: UI Developer  
-        time: 2012 - 2014
-        company: Amazon, London  
+      - role: Analista de Pruebas QA 
+        time: nov 2018 - oct 2020
+        company: Prosegur S.A  
         
 certifications:
       title: Certifications

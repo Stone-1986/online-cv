@@ -130,9 +130,19 @@ experiences:
             - Reporté y realicé el seguimiento de fallos utilizando herramientas como Jira Confluence y Xray.
             - Utilicé herramientas como Postman para realizar pruebas de integración y verificar la funcionalidad del software.
 
+            **Herramientas Utilizadas**
+            - Jira – Confluence - zephyr
+            - Cypress
+            - Postman
+
       - role: Analista de Pruebas QA 
         time: nov 2018 - oct 2020
         company: Prosegur S.A  
+         details: |
+             - Análisis de requerimientos de negocio
+             - Definir especificaciones funcionales para nuevos desarrollos o cambios a los existentes.
+             - Brindar capacitaciones a usuarios. 
+             - Diseñar y ejecucitar planes de prueba para aplicaciones web.
         
 certifications:
       title: Certifications

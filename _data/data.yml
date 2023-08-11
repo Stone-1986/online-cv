@@ -155,11 +155,17 @@ skills:
     toolset:
       - name: Pruebas Funcionales
         level: 100%
+      
+      - name: Jira - Confluence - Xray
+        level: 100%   
         
       - name: Automatizacion de pruebas con Selenium
         level: 93%
 
       - name: Consultas SQL
+        level: 90%
+      
+      - name: Cucumber gherkin
         level: 90%
 
       - name: Java
@@ -171,9 +177,6 @@ skills:
       - name: Jmeter
         level: 60%   
         
-      - name: Jira - Confluence - Xray
-        level: 100%   
-
       - name: Spring boot
         level: 60%  
 

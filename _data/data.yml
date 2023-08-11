@@ -153,7 +153,7 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Diseño casos de prueba
+      - name: Pruebas Funcionales
         level: 100%
         
       - name: Automatizacion de pruebas con Selenium
@@ -162,8 +162,17 @@ skills:
       - name: Consultas SQL
         level: 90%
 
-      - name: java
+      - name: Java
         level: 70%    
+      
+      - name: Postman
+        level: 70%   
+
+      - name: Jmeter
+        level: 60%   
+        
+      - name: Jmeter
+        level: 60%   
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>

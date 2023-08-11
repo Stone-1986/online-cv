@@ -121,6 +121,14 @@ experiences:
       - role: Analista de Pruebas QA  
         time: 2012 - 2014
         company: Agencia de Seguros Falabella
+        details: |
+            - Diseñé y ejecuté casos de prueba, incluyendo pruebas funcionales, pruebas de humo, pruebas manuales y re-test tanto para los desarrollos del front
+            y los servicios de integracion.
+            - Realicé consultas en base de datos utilizando SQL (backend), para la generacion de informes y solución de incidencias.
+            - Realicé scripts de automatización utilizando Cypress y Gherkin para mejora la eficiencia de las pruebas.
+            - Trabaje con metodologías ágiles (Scrum) para mejorar la colaboración y el endimiento del equipo.
+            - Reporté y realicé el seguimiento de fallos utilizando herramientas como Jira Confluence y Xray.
+            - Utilicé herramientas como Postman para realizar pruebas de integración y verificar la funcionalidad del software.
 
       - role: Analista de Pruebas QA 
         time: nov 2018 - oct 2020

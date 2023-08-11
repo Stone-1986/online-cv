@@ -143,7 +143,12 @@ experiences:
             - Definir especificaciones funcionales para nuevos desarrollos o solicitudes de cambio.
             - Brindar capacitaciones a usuarios.
             - Diseño y ejecución de planes de prueba.
-        
+            
+            **Herramientas Utilizadas**
+            - Jira – Confluence - zephyr
+            - Cypress
+            - Postman
+
 certifications:
       title: Certifications
       list:

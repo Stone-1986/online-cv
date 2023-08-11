@@ -77,9 +77,14 @@ experiences:
             - Crear estrategias de pruebas, planificar y diseñar casos de prueba, identificar los escenarios más críticos y definir los criterios de aceptación.
             
             **Logros**
-            - Colaboré estrechamente con los equipos de desarrollo y negocio para diseñar implementar un software de generación de links de pago.
+            Colaboré estrechamente con los equipos de desarrollo y negocio para diseñar implementar un software de generación de links de pago.
             Por mi liderazgo y entendimiento del negocio, participé en la codificación utilizando herramientas como Spring Boot y Java.
             Mi aporte permitió una comunicación fluida entre ambas áreas, generando un software robusto y seguro que facilitó los procesos de pago para los usuarios.
+            
+            **Herramientas**
+            - Jira – Confluence - Xray
+            - SoapUI - Postman
+            - Selenium webdriver - Cucumber - REST Assured
             
       - role: Analista de Pruebas QA
         time: dic 2021 - ago 2022

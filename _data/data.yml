@@ -81,16 +81,27 @@ experiences:
             Por mi liderazgo y entendimiento del negocio, participé en la codificación utilizando herramientas como Spring Boot y Java.
             Mi aporte permitió una comunicación fluida entre ambas áreas, generando un software robusto y seguro que facilitó los procesos de pago para los usuarios.
             
-            **Herramientas**
+            **Herramientas Utilizadas**
             - Jira – Confluence - Xray
             - SoapUI - Postman
             - Selenium webdriver - Cucumber - REST Assured
+            - Oracle SQL
             
       - role: Analista de Pruebas QA
         time: dic 2021 - ago 2022
-        company: A dic 2021 - ago 2022
+        company: Choucair Testing
         details: |
             - Realizar pruebas funcionales, de rendimiento, de seguridad y de usabilidad para asegurar que el software cumpla con los requisitos establecidos.
+            - Identificar y evaluar los riesgos potenciales en el software o en los procesos de desarrollo y proponer medidas para mitigarlos.
+            - Crear estrategias de pruebas, planificar y diseñar casos de prueba, identificar los escenarios más críticos y definir los criterios de aceptación.
+
+            **Logros**
+            - Identifiqué un defecto crítico en el software de banca móvil, referente a la validación del documento de identidad, antes de su lanzamiento
+            evitando posibles consecuencias negativas para los usuarios finales y recibiendo reconocimiento por parte del cliente.
+
+            **Herramientas Utilizadas**
+            - Jira – Confluence - Xray
+            - 
             
       - role: Analista Semi Senior I
         time: oct 2020 - ago 2021

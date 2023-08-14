@@ -74,11 +74,10 @@ experiences:
         time: abr 2022 - Present
         company: SII Colombia
         details: |
-            - Identificar oportunidades para automatizar pruebas e implementar un marco de automatización robusto y escalable 
-            utilizando herramientas como Selenium, Cucumber y Java.
-            - Investigar y documentar los defectos encontrados durante las pruebas, colaborar con los equipos de desarrollo
-            para solucionar los problemas y realizar un seguimiento de las correcciones.
-            - Crear estrategias de pruebas, planificar y diseñar casos de prueba, identificar los escenarios más críticos y definir los criterios de aceptación.
+            - Identificar oportunidades para automatizar pruebas e implementar un marco de automatización para aplicaciones Web y Apis utilizando herramientas como Selenium, Cucumber, REST Assured y Java.
+            - Investigar y documentar los defectos encontrados durante las pruebas, colaborar con los equipos de desarrollo para solucionar los problemas y realizar un seguimiento de las correcciones.
+            - Diseño y ejecución de pruebas en API rest, utilizando herramientas como Postman y SoapUI
+            - Crear estrategias de pruebas funcionales, elaborar planes y diseñar casos de prueba, identificar los escenarios críticos y establecer los criterios de aceptación en el contexto de aplicaciones web y móviles.
             
             **Logros**
             - Colaboré estrechamente con los equipos de desarrollo y negocio para diseñar implementar un software de generación de links de pago.
@@ -90,6 +89,8 @@ experiences:
             - SoapUI - Postman
             - Selenium webdriver - Cucumber - REST Assured
             - Oracle SQL
+            - Bitbuquet
+            - Jenkins
             
       - role: Analista de Pruebas QA
         time: dic 2021 - ago 2022

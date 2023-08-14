@@ -96,9 +96,10 @@ experiences:
         time: dic 2021 - ago 2022
         company: Choucair Testing
         details: |
-            - Realizar pruebas funcionales, de rendimiento, de seguridad y de usabilidad para asegurar que el software cumpla con los requisitos establecidos.
+            - Desarrollar estrategias de pruebas funcionales, elaborar planes y diseñar casos de prueba, identificar los escenarios críticos y establecer los criterios de aceptación en el contexto de aplicaciones web y móviles.
             - Identificar y evaluar los riesgos potenciales en el software o en los procesos de desarrollo y proponer medidas para mitigarlos.
-            - Crear estrategias de pruebas, planificar y diseñar casos de prueba, identificar los escenarios más críticos y definir los criterios de aceptación.
+            - Documentar los resultados de las pruebas utilizando herramientas de gestión como Jira y xray.
+            - Identificar y documentar de manera precisa los problemas y defectos encontrados durante las pruebas, proporcionando información detallada para ayudar al equipo de desarrollo a comprender y corregir los problemas.
 
             **Logros**
             - Identifiqué un defecto crítico en el software de banca móvil, referente a la validación del documento de identidad, antes de su lanzamiento
@@ -106,6 +107,7 @@ experiences:
 
             **Herramientas Utilizadas**
             - Jira – Confluence - Xray
+            - Oracle Database
             
       - role: Analista Semi Senior I
         time: jul 2021 - ene 2022

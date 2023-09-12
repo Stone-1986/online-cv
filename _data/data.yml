@@ -73,6 +73,7 @@ experiences:
       - role: Quality Analyst III
         time: abr 2022 - Present
         company: SII Colombia
+        leader:  Adriana Catalina Buitrago Diaz - Scrum Master
         details: |
             - Identificar oportunidades para automatizar pruebas e implementar un marco de automatización para aplicaciones Web y Apis utilizando herramientas como Selenium, Cucumber, REST Assured y Java.
             - Investigar y documentar los defectos encontrados durante las pruebas, colaborar con los equipos de desarrollo para solucionar los problemas y realizar un seguimiento de las correcciones.
@@ -95,6 +96,7 @@ experiences:
       - role: Analista de Pruebas QA
         time: dic 2021 - ago 2022
         company: Choucair Testing
+        leader:  Norma Eugenia Villamarin - Service manager
         details: |
             - Desarrollar estrategias de pruebas funcionales, elaborar planes y diseñar casos de prueba, identificar los escenarios críticos y establecer los criterios de aceptación en el contexto de aplicaciones web y móviles.
             - Identificar y evaluar los riesgos potenciales en el software o en los procesos de desarrollo y proponer medidas para mitigarlos.
@@ -112,6 +114,7 @@ experiences:
       - role: Analista Semi Senior I
         time: jul 2021 - ene 2022
         company: BITS Américas SAS
+        leader:  Tatiana Blanco Rojas - Líder de proyectos - Scrum master
         details: |
             - Crear estrategias de pruebas, planificar y diseñar casos de prueba, identificar los escenarios más críticos y definir los criterios de aceptación. 
             - Realizar pruebas funcionales, de rendimiento, de seguridad y de usabilidad para asegurar que el software cumpla con los requisitos establecidos.
@@ -130,6 +133,7 @@ experiences:
       - role: Analista de Pruebas QA  
         time: oct 2020 - sep 2021
         company: Agencia de Seguros Falabella
+        leader:  Jinna Paola Real - Sugerente Desarrollo Web
         details: |
             - Diseñé y ejecuté casos de prueba, incluyendo pruebas funcionales, pruebas de humo, pruebas manuales y re-test tanto para los desarrollos del front
             y los servicios de integracion.
@@ -147,6 +151,7 @@ experiences:
       - role: Analista de Pruebas QA 
         time: nov 2018 - oct 2020
         company: Prosegur S.A
+        leader:  Pablo Pascual - Director Global Content Services en Prosegur
         details: |
             - Análisis de requerimientos de negocio.
             - Definir especificaciones funcionales para nuevos desarrollos o solicitudes de cambio.
@@ -161,6 +166,7 @@ experiences:
       - role: Consultor Funcional
         time: dic 2013 - jul 2017
         company: Itis Support
+        leader:  Ciro Angarita Camelo - Director de Operaciones
         details: |      
             - Verificación de la ejecución y cumplimiento del cronograma de proyectos, aplicación de controles de cambio, seguimiento a la ejecución de horas y facturación de honorarios.
             - Seguimiento a la ocupación de consultores, diseño y revisión de indicadores de ocupación de los proyectos.
